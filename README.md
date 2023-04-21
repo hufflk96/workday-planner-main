@@ -6,7 +6,7 @@ This application is a color coded scheduler that shows past, present, and future
 This planners use is to help organize and plan your work day in a simple and efficent style keeping all of your schedule together in one place that is easy to access. 
 
 ## links: 
-
+https://hufflk96.github.io/workday-planner-main/
 
 ## Example Screenshot:
 
